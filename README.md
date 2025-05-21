@@ -1,0 +1,2 @@
+# goupdates
+Failsafe software updates
