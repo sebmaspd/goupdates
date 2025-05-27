@@ -23,4 +23,10 @@ The simulated system sends a "kick" at irregular intervals.
 
 If the "kick" is late or missing, the watchdog assumes a hang and triggers a reset.
 
+## References
+
+https://stackoverflow.com/questions/877513/what-are-techniques-for-allowing-safe-software-upgrades-in-embedded-systems  
+
+
+
 Control the timing logic to simulate hangs, crashes, or recoveries.
